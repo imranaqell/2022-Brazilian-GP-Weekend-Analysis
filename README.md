@@ -1,6 +1,6 @@
 # 2022 Brazilian GP Weekend Analysis
 
-**Qualifying**
+[**Qualifying**](https://github.com/imranaqell/2022-Brazilian-GP-Weekend-Analysis/tree/main/Qualifying)
 
 Damp conditions during qualifying were an indicator that the session was about to be one of the most exciting of all time. As a Formula 1 fan, it was indeed very entertaining as Kevin Magnussen became the 106th different polesitter. He managed to snatch the pole away from Verstappen by two tenths. Here are the key points from qualifying:
 
