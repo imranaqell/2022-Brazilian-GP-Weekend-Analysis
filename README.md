@@ -13,3 +13,5 @@ Damp conditions during qualifying were an indicator that the session was about t
 4. Russell beached his W13 in the gravel during qualifying but did not damage his car.
 
 ![Brazilian GP Qualifying](https://user-images.githubusercontent.com/93969104/201446582-8f8e8f74-ddb5-4cef-a35a-89f50443974c.png)
+
+![Magnussen Speed Heatmap](https://user-images.githubusercontent.com/93969104/201452380-8cfaaa7e-1309-4c4e-92b9-243fbc925763.png)
