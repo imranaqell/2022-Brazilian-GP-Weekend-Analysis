@@ -4,7 +4,7 @@
 
 Damp conditions during qualifying were an indicator that the session was about to be one of the most exciting of all time. As a Formula 1 fan, it was indeed very entertaining as Kevin Magnussen became the 106th different polesitter. He managed to snatch the pole away from Verstappen by two tenths. Here are the key points from qualifying:
 
-1. The polesitter's teammate, Mick Schumacher, became a victim of a strategy blunder as he was last during qualifying.
+1. The polesitter's teammate shamefully qualified last.
 
 2. Kevin Magnussen made no mistakes during his qualifying lap.
 
