@@ -32,3 +32,21 @@ George Russell won the Brazilian Grand Prix Sprint Race after he ended up in the
 ![racepace](https://user-images.githubusercontent.com/93969104/201499968-6aab43a0-5108-4e3d-b99a-94c6c56a90c4.png)
 
 ![Brazil Sprint Strategy](https://user-images.githubusercontent.com/93969104/201499971-1db6fab9-f9ef-4e74-ad91-267c7d2d7a04.png)
+
+[**Race**](https://github.com/imranaqell/2022-Brazilian-GP-Weekend-Analysis/tree/main/Race)
+
+What a weekend it is for George Russell, who won the 2022 Brazilian Grand Prix. It was his first victory, made even sweeter by the fact that his teammate, Lewis Hamilton, finished second after passing nearly the entire grid. It was Mercedes' first win of the season and also its first 1-2 after quite some time. What a turnaround from them—from being 1 second off the pace to winning a race!
+
+Here are the key points from the race:
+
+1. Lewis had a stronger median pace, but Russell had a more consistent pace due to being in clean air.
+
+2. Ferrari was strong in this race but was not as strong as the mighty Mercedes.
+
+3. Red Bull fumbled as the whole team had to face a disappointing weekend after a weak result for the team.
+
+4. Both Alpines managed to score points after quite a disastrous sprint race on Saturday.
+
+![Brazil Race Pace](https://user-images.githubusercontent.com/93969104/201552909-6bbaa89a-6f54-420c-aded-9b195ac45b69.png)
+
+![Brazil Race Strategy](https://user-images.githubusercontent.com/93969104/201552900-50dc7910-34cc-4202-9f85-267627f6ea74.png)
